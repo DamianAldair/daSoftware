@@ -1,12 +1,12 @@
 # daSoftware
 Repositorio oficial para la descarga de programas diseñados y desarrollados por daSoftware.
 
-Puede ver todos los programas [aquí.](https://github.com/DamianAldair/daSoftware/blob/main/Links%20de%20descarga.md)
+Puede ver todos los programas [este enlace.](https://github.com/DamianAldair/daSoftware/blob/main/Links%20de%20descarga.md)
 
 ## ¿Qué necesito para ejecutar estos programas?
 Primeramente, no se necesita un ordenador potente para ejecutar estos programas, pues están pensados para que sean livianos, rápidos y fáciles de usar.
 Sólo es necesario tener instalado Java Runtime Environment (JRE) 1.8 o superior.
-Puede descargarlo desde [aquí.](https://www.oracle.com/java/technologies/downloads/)
+Puede descargarlo desde [este enlace.](https://www.oracle.com/java/technologies/downloads/)
 
 ## ¿Qué encontraré aquí?
 Pues todos los programas oficiales diseñados y desarrollados por daSoftware para su distribución. Siempre se encontrarán las últimas actualizaciónes de absolutamente todos los programas. Nunca encontrarás una versión más actualizada en otro lugar que no sea este.
